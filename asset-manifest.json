@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Viswajoseph.github.io/static/css/main.a8af4fb5.css",
+    "main.js": "/Viswajoseph.github.io/static/js/main.0af91ed5.js",
+    "static/js/453.4cdc2a05.chunk.js": "/Viswajoseph.github.io/static/js/453.4cdc2a05.chunk.js",
+    "index.html": "/Viswajoseph.github.io/index.html",
+    "main.a8af4fb5.css.map": "/Viswajoseph.github.io/static/css/main.a8af4fb5.css.map",
+    "main.0af91ed5.js.map": "/Viswajoseph.github.io/static/js/main.0af91ed5.js.map",
+    "453.4cdc2a05.chunk.js.map": "/Viswajoseph.github.io/static/js/453.4cdc2a05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8af4fb5.css",
+    "static/js/main.0af91ed5.js"
+  ]
+}
